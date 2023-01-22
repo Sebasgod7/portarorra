@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { hotjar } from 'react-hotjar';
+
 
 
 import "./header.scss";
